@@ -15,4 +15,4 @@ Webshell Threat Detector checks web shells present in a new or running system, a
 
 ## Service Procedure
 
-![WebshellThreatDetector_overview01.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_overview01.png)
+![WebshellThreatDetector_overview01.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_overview01_en.png)
