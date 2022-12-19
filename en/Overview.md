@@ -11,7 +11,7 @@ Webshell Threat Detector checks web shells present in a new or running system, a
 
 ## Considerations
 
-*  Support service is provided when a checking agent is stopped.
+* Support service is provided when a checking agent is stopped.
 
 ## Service Procedure
 
