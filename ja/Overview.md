@@ -15,4 +15,4 @@
 
 ## サービス手順
 
-![WebshellThreatDetector_overview01.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_overview01.png)
+![WebshellThreatDetector_overview01.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_overview01_jp.png)
