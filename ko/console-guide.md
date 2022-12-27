@@ -6,7 +6,6 @@
 
 인스턴스 OS를 선택하여 Agent 실행 스크립트를 불러옵니다.
 
-(이미지 변경 예정)
 ![serversecuritycheck_01_20201015.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_01_20221129.png)
 
 ### Linux 계열 Agent
