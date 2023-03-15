@@ -4,7 +4,7 @@
 
 ## 에이전트 활성화 절차
 
-인스턴스 OS를 선택하여 에이전트 활성화 스크립트를 불러옵니다.
+인스턴스 OS를 선택하여 에이전트 설치 스크립트를 불러옵니다.
 
 ![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_01_20221129.png)
 
