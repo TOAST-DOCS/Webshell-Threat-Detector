@@ -47,7 +47,6 @@ pkill pfcont && pkill pfmont && pkill pfrmont && pkill pfinstor && pkill pfsder 
 
 4\. 정상적으로 삭제되었음을 확인하고 싶다면, /nwtd 디렉토리가 존재하는지 확인합니다.
 
-
 ## 운영 문의
 
 ### 문의 대상
