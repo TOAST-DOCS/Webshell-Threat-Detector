@@ -30,7 +30,6 @@ Configure the work directory..
 Configure the data directory..
 Install Finished!
 ```
-
 ## 에이전트 비활성화 절차
 
 1\. 삭제 스크립트를 복사합니다.
