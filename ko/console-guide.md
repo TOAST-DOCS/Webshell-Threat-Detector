@@ -41,8 +41,8 @@ pkill pfcont && pkill pfmont && pkill pfrmont && pkill pfinstor && pkill pfsder 
 2\. 삭제 대상 인스턴스 터미널에 접속합니다.
 
 3\. 관리자 권한으로 삭제 스크립트를 실행 합니다.
-  * Webshell Threat Detector 프로세스를 종료합니다.
-  * Webshell Threat Detector 파일을 삭제합니다.
+* Webshell Threat Detector 프로세스를 종료합니다.
+* Webshell Threat Detector 파일을 삭제합니다.
 
 4\. 정상적으로 삭제되었음을 확인하고 싶다면, /nwtd 디렉토리가 존재하는지 확인합니다.
 
