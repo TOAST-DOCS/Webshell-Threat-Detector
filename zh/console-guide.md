@@ -1,8 +1,8 @@
 ## Security > Webshell Threat Detector > Console Guide
 
-This document explains how to execute a checking agent. 
+This document explains how to enable a checking agent. 
 
-## Execute Agent
+## Enable Agent
 
 Select an instance OS to import an agent execution script.
 
@@ -10,9 +10,9 @@ Select an instance OS to import an agent execution script.
 
 ### For Linux
 
-1. Click Copy Clipboard to copy the execution script.
+1. Click Copy Clipboard to copy the installation script.
 
-2. Access the instance terminal to execute.
+2. Access the instance terminal for installation.
 
 3. Create and execute the agent script as administrator.
 
@@ -30,6 +30,23 @@ Configure the work directory..
 Configure the data directory..
 Install Finished!
 ```
+
+## Disable Agent
+
+1. Cpoy the delete script.
+
+```
+pkill pfcont && pkill pfmont && pkill pfrmont && pkill pfinstor && pkill pfsder && pkill acontroller && rm -rf /nwtd
+```
+
+2. Access the instance terminal for deletion.
+
+3. Execute the delete script as administrator.
+
+* End the Webshell Threat Detector process.
+* Delete the Webshell Threat Detector file.
+
+4. To make sure that it is deleted normally, check if the /nwtd directory exists.
 
 ## Operational Inquiry
 
