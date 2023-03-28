@@ -10,7 +10,7 @@
 
 ### Linux系列エージェント
 
-1\. 実行スクリプトをコピーするにはクリップボードコピーをクリックします。
+1\. 実行スクリプトをコピーするには**クリップボードにコピー**をクリックします。
 
 2\. 実行対象インスタンスターミナルに接続します。
 
@@ -30,6 +30,21 @@ Configure the work directory..
 Configure the data directory..
 Install Finished!
 ```
+
+1. 削除スクリプトをコピーします。
+
+```
+pkill pfcont && pkill pfmont && pkill pfrmont && pkill pfinstor && pkill pfsder && pkill acontroller && rm -rf /nwtd
+```
+
+2. 削除対象インスタンスターミナルに接続します。
+
+3. 管理者権限で削除スクリプトを実行します。
+
+* Webshell Threat Detectorプロセスを終了します。
+* Webshell Threat Detectorファイルを削除します。
+
+4. 正常に削除されたことを確認したい場合は/nwtdディレクトリが存在するか確認します。
 
 ## 運営に関するお問い合わせ
 
