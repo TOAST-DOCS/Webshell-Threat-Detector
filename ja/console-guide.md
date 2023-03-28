@@ -31,7 +31,7 @@ Configure the data directory..
 Install Finished!
 ```
 
-## エージェントを無効にする手順
+## エージェント無効化手順
 
 1. 削除スクリプトをコピーします。
 
