@@ -1,14 +1,19 @@
-## Security > Webshell Threat Detector > 콘솔 사용 가이드
+<!-- pre-align:aligned sig=a8a861cf7baf -->
+
+<a id="security-webshell-threat-detector-console-guide"></a>
+## Security > Webshell Threat Detector > 콘솔 사용 가이드 { #security-webshell-threat-detector-console-guide }
 
 여기에서는 점검 에이전트 활성화 절차를 설명합니다. 
 
-## 에이전트 활성화 절차
+<a id="enable-agent"></a>
+## 에이전트 활성화 절차 { #enable-agent }
 
 인스턴스 OS를 선택하여 에이전트 설치 스크립트를 불러옵니다.
 
 ![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_01_20221129.png)
 
-### Linux 계열 에이전트
+<a id="for-linux"></a>
+### Linux 계열 에이전트 { #for-linux }
 
 1. 설치 스크립트를 복사하려면 **클립보드로 복사**를 클릭합니다.
 
@@ -30,7 +35,8 @@ Configure the work directory..
 Configure the data directory..
 Install Finished!
 ```
-## 에이전트 비활성화 절차
+<a id="disable-agent"></a>
+## 에이전트 비활성화 절차 { #disable-agent }
 
 1. 삭제 스크립트를 복사합니다.
 
@@ -47,15 +53,18 @@ pkill pfcont && pkill pfmont && pkill pfrmont && pkill pfinstor && pkill pfsder 
 
 4. 정상적으로 삭제되었음을 확인하고 싶다면, /nwtd 디렉터리가 존재하는지 확인합니다.
 
-## 운영 문의
+<a id="operational-inquiry"></a>
+## 운영 문의 { #operational-inquiry }
 
-### 문의 대상
+<a id="inquiry-item"></a>
+### 문의 대상 { #inquiry-item }
 
 1. 에이전트 실행 실패 문의
 
 2. 점검 결과에 대한 오용 탐지 신고
 
-### 문의 방법
+<a id="how-to-inquire"></a>
+### 문의 방법 { #how-to-inquire }
 
 1. 문의 방법: **고객 센터 > 1:1 문의**
 
