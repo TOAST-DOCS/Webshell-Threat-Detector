@@ -1,14 +1,19 @@
-## Security > Webshell Threat Detector > Console Guide
+<!-- pre-align:aligned sig=a8a861cf7baf -->
+
+<a id="security-webshell-threat-detector-console-guide"></a>
+## Security > Webshell Threat Detector > Console Guide { #security-webshell-threat-detector-console-guide }
 
 This document explains how to enable a checking agent. 
 
-## Enable Agent
+<a id="enable-agent"></a>
+## Enable Agent { #enable-agent }
 
 Select an instance OS to import an agent execution script.
 
 ![WebshellThreatDetector_01_20221129.png](https://static.toastoven.net/prod_webshellthreatdetector/WebshellThreatDetector_en_01_20221129.png)
 
-### For Linux
+<a id="for-linux"></a>
+### For Linux { #for-linux }
 
 1. Click Copy Clipboard to copy the installation script.
 
@@ -31,7 +36,8 @@ Configure the data directory..
 Install Finished!
 ```
 
-## Disable Agent
+<a id="disable-agent"></a>
+## Disable Agent { #disable-agent }
 
 1. Cpoy the delete script.
 
@@ -48,15 +54,18 @@ pkill pfcont && pkill pfmont && pkill pfrmont && pkill pfinstor && pkill pfsder 
 
 4. To make sure that it is deleted normally, check if the /nwtd directory exists.
 
-## Operational Inquiry
+<a id="operational-inquiry"></a>
+## Operational Inquiry { #operational-inquiry }
 
-### Inquiry Item
+<a id="inquiry-item"></a>
+### Inquiry Item { #inquiry-item }
 
 1. To inquire about failure in agent installation
 
 2. To report on misuse of check results
 
-### How to Inquire
+<a id="how-to-inquire"></a>
+### How to Inquire { #how-to-inquire }
 
 1. Procedure: go to **Customer Center > 1:1 Inquiry**
 
